@@ -1,3 +1,36 @@
+# Deep Research Benchmark Results
+
+**iFlow Team, Alibaba**
+
+These are the evaluation results for iFlow on the [Deep Research Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
+## Performance Metrics
+
+| Metric | Score |
+|--------|-------|
+| **Overall** | **51.62** |
+| Comprehensiveness | 52.75 |
+| Insight | 51.77 |
+| Instruction Following | 50.91 |
+| Readability | 50.01 |
+
+---
+
+## About Deep Research Bench
+
+Deep Research Bench is a benchmark for evaluating deep research capabilities, focusing on:
+
+- **Comprehensiveness**: Breadth and depth of research content
+- **Insight**: Quality of analysis and unique perspectives
+- **Instruction Following**: Understanding and execution of user requirements
+- **Readability**: Clarity and organization of output
+
+## More Information
+
+Visit the [Deep Research Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) for the complete rankings and detailed evaluation criteria.
+
+---
+
 # Deep Research Benchmark 评测结果
 
 **iFlow 团队，阿里巴巴**
